@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namiazara&label=Profile%20views&color=0e75b6&style=flat" alt="namiazara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namiazara" alt="namiazara" /></a> </p>
-
 - 🌱 I’m currently learning **Selenium,Jmeter,Splunk**
 
 - 📫 How to reach me **namia.zara3@gmail.com**
